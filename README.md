@@ -12,6 +12,7 @@ This repository contains a compact NLP workflow for football news:
 - `data/incoming_news.json`: incoming batch used for publish/skip and clustering
 - `data/incoming_news_added.json`: additional incoming batch used for incremental ingest demo
 - `data/entity_name_db.json`: curated club/player names with aliases for regex-based entity extraction
+- `example_output/`: reproducible sample outputs from pipeline runs
 
 ## Setup
 
