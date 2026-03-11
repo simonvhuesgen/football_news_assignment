@@ -1,0 +1,798 @@
+{
+  "mode": "story_entities_db",
+  "source_mode": "story_clustering",
+  "total_stories": 12,
+  "total_entities": 103,
+  "stories": [
+    {
+      "story_id": 0,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "Bayer Leverkusen",
+          "news_ids": [
+            0,
+            12
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Eintracht Frankfurt",
+          "news_ids": [
+            0,
+            12
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "VfL Bochum",
+          "news_ids": [
+            0,
+            12
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Cajetan Lenz",
+          "news_ids": [
+            0,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 1,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "Fenerbahce",
+          "news_ids": [
+            1
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Rennes",
+          "news_ids": [
+            1
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Sebastian Szymanski",
+          "news_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 2,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "AC Milan",
+          "news_ids": [
+            2
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Brighton and Hove Albion",
+          "news_ids": [
+            2
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Fiorentina",
+          "news_ids": [
+            2
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Girona",
+          "news_ids": [
+            2
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Paris FC",
+          "news_ids": [
+            2
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Paris Saint-Germain",
+          "news_ids": [
+            2
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Torino",
+          "news_ids": [
+            2
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Valencia",
+          "news_ids": [
+            2
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Diego Coppola",
+          "news_ids": [
+            2
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Marc Mechenoua",
+          "news_ids": [
+            2
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Matteo Moretto",
+          "news_ids": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 3,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "Aston Villa",
+          "news_ids": [
+            3
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Atletico Madrid",
+          "news_ids": [
+            3
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Crystal Palace",
+          "news_ids": [
+            3
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Paris Saint-Germain",
+          "news_ids": [
+            3
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Real Madrid",
+          "news_ids": [
+            3
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Roma",
+          "news_ids": [
+            3
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Donyell Malen",
+          "news_ids": [
+            3
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Goncalo Ramos",
+          "news_ids": [
+            3
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Jean-Philippe Mateta",
+          "news_ids": [
+            3
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Julian Alvarez",
+          "news_ids": [
+            3
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Ousmane Dembele",
+          "news_ids": [
+            3
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Tammy Abraham",
+          "news_ids": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 4,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "Arsenal",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Borussia Dortmund",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Feyenoord",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Lazio",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Lens",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Napoli",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Olympique Marseille",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "RB Leipzig",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Ethan Nwaneri",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Jurrien Timber",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Quinten Timber",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Roberto De Zerbi",
+          "news_ids": [
+            4
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Robin van Persie",
+          "news_ids": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 5,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "Bayern Munich",
+          "news_ids": [
+            5
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Hamburg SV",
+          "news_ids": [
+            5
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Tottenham Hotspur",
+          "news_ids": [
+            5
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Cristian Romero",
+          "news_ids": [
+            5
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Jacobo Ramon",
+          "news_ids": [
+            5
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Luka Vuskovic",
+          "news_ids": [
+            5
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Micky van de Ven",
+          "news_ids": [
+            5
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Sergio Ramos",
+          "news_ids": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 6,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "AC Milan",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Corinthians",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Galatasaray",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Hellas Verona",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Inter Milan",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Lazio",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Napoli",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Nottingham Forest",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Real Betis",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Abdessamad Ezzalzouli",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Alfredo Pedulla",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Giovane Nascimento",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Lorenzo Lucca",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Nicolo Schira",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Noa Lang",
+          "news_ids": [
+            6
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Reda Belahyane",
+          "news_ids": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 7,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "FC Koln",
+          "news_ids": [
+            7
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Sporting CP",
+          "news_ids": [
+            7
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Philipp Turoff",
+          "news_ids": [
+            7
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Thomas Kessler",
+          "news_ids": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 8,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "Arsenal",
+          "news_ids": [
+            8
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Chelsea",
+          "news_ids": [
+            8
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Liverpool",
+          "news_ids": [
+            8
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Manchester United",
+          "news_ids": [
+            8
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Real Madrid",
+          "news_ids": [
+            8
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Rennes",
+          "news_ids": [
+            8
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Aaron Anselmino",
+          "news_ids": [
+            8
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Fabrizio Romano",
+          "news_ids": [
+            8
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Habib Beye",
+          "news_ids": [
+            8
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Jeremy Jacquet",
+          "news_ids": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 9,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "Borussia Dortmund",
+          "news_ids": [
+            9,
+            13
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Tottenham Hotspur",
+          "news_ids": [
+            9,
+            13
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "West Ham United",
+          "news_ids": [
+            9,
+            13
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Lucas Bergvall",
+          "news_ids": [
+            9,
+            13
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Thomas Frank",
+          "news_ids": [
+            9,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 10,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "Aston Villa",
+          "news_ids": [
+            10
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Brentford",
+          "news_ids": [
+            10
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Crystal Palace",
+          "news_ids": [
+            10
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Everton",
+          "news_ids": [
+            10
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Fulham",
+          "news_ids": [
+            10
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Leeds United",
+          "news_ids": [
+            10
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Manchester United",
+          "news_ids": [
+            10
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Harry Wilson",
+          "news_ids": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": 11,
+      "entities": [
+        {
+          "entity_type": "club",
+          "entity_name": "Athletic Bilbao",
+          "news_ids": [
+            11
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Juventus",
+          "news_ids": [
+            11
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Napoli",
+          "news_ids": [
+            11
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Sevilla",
+          "news_ids": [
+            11
+          ]
+        },
+        {
+          "entity_type": "club",
+          "entity_name": "Villarreal",
+          "news_ids": [
+            11
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Gianluca Di Marzio",
+          "news_ids": [
+            11
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Juanlu Sanchez",
+          "news_ids": [
+            11
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Lorenzo Lucca",
+          "news_ids": [
+            11
+          ]
+        },
+        {
+          "entity_type": "player",
+          "entity_name": "Pierre Kalulu",
+          "news_ids": [
+            11
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+story_id,entity_type,entity_name,entity_name_lower,news_ids
+2,club,AC Milan,ac milan,2
+6,club,AC Milan,ac milan,6
+4,club,Arsenal,arsenal,4
+8,club,Arsenal,arsenal,8
+3,club,Aston Villa,aston villa,3
+10,club,Aston Villa,aston villa,10
+11,club,Athletic Bilbao,athletic bilbao,11
+3,club,Atletico Madrid,atletico madrid,3
+0,club,Bayer Leverkusen,bayer leverkusen,"0,12"
+5,club,Bayern Munich,bayern munich,5
+4,club,Borussia Dortmund,borussia dortmund,4
+9,club,Borussia Dortmund,borussia dortmund,"9,13"
+10,club,Brentford,brentford,10
+2,club,Brighton and Hove Albion,brighton and hove albion,2
+8,club,Chelsea,chelsea,8
+6,club,Corinthians,corinthians,6
+3,club,Crystal Palace,crystal palace,3
+10,club,Crystal Palace,crystal palace,10
+0,club,Eintracht Frankfurt,eintracht frankfurt,"0,12"
+10,club,Everton,everton,10
+7,club,FC Koln,fc koln,7
+1,club,Fenerbahce,fenerbahce,1
+4,club,Feyenoord,feyenoord,4
+2,club,Fiorentina,fiorentina,2
+10,club,Fulham,fulham,10
+6,club,Galatasaray,galatasaray,6
+2,club,Girona,girona,2
+5,club,Hamburg SV,hamburg sv,5
+6,club,Hellas Verona,hellas verona,6
+6,club,Inter Milan,inter milan,6
+11,club,Juventus,juventus,11
+4,club,Lazio,lazio,4
+6,club,Lazio,lazio,6
+10,club,Leeds United,leeds united,10
+4,club,Lens,lens,4
+8,club,Liverpool,liverpool,8
+8,club,Manchester United,manchester united,8
+10,club,Manchester United,manchester united,10
+4,club,Napoli,napoli,4
+6,club,Napoli,napoli,6
+11,club,Napoli,napoli,11
+6,club,Nottingham Forest,nottingham forest,6
+4,club,Olympique Marseille,olympique marseille,4
+2,club,Paris FC,paris fc,2
+2,club,Paris Saint-Germain,paris saint-germain,2
+3,club,Paris Saint-Germain,paris saint-germain,3
+4,club,RB Leipzig,rb leipzig,4
+6,club,Real Betis,real betis,6
+3,club,Real Madrid,real madrid,3
+8,club,Real Madrid,real madrid,8
+1,club,Rennes,rennes,1
+8,club,Rennes,rennes,8
+3,club,Roma,roma,3
+11,club,Sevilla,sevilla,11
+7,club,Sporting CP,sporting cp,7
+2,club,Torino,torino,2
+5,club,Tottenham Hotspur,tottenham hotspur,5
+9,club,Tottenham Hotspur,tottenham hotspur,"9,13"
+2,club,Valencia,valencia,2
+0,club,VfL Bochum,vfl bochum,"0,12"
+11,club,Villarreal,villarreal,11
+9,club,West Ham United,west ham united,"9,13"
+8,player,Aaron Anselmino,aaron anselmino,8
+6,player,Abdessamad Ezzalzouli,abdessamad ezzalzouli,6
+6,player,Alfredo Pedulla,alfredo pedulla,6
+0,player,Cajetan Lenz,cajetan lenz,"0,12"
+5,player,Cristian Romero,cristian romero,5
+2,player,Diego Coppola,diego coppola,2
+3,player,Donyell Malen,donyell malen,3
+4,player,Ethan Nwaneri,ethan nwaneri,4
+8,player,Fabrizio Romano,fabrizio romano,8
+11,player,Gianluca Di Marzio,gianluca di marzio,11
+6,player,Giovane Nascimento,giovane nascimento,6
+3,player,Goncalo Ramos,goncalo ramos,3
+8,player,Habib Beye,habib beye,8
+10,player,Harry Wilson,harry wilson,10
+5,player,Jacobo Ramon,jacobo ramon,5
+3,player,Jean-Philippe Mateta,jean-philippe mateta,3
+8,player,Jeremy Jacquet,jeremy jacquet,8
+11,player,Juanlu Sanchez,juanlu sanchez,11
+3,player,Julian Alvarez,julian alvarez,3
+4,player,Jurrien Timber,jurrien timber,4
+6,player,Lorenzo Lucca,lorenzo lucca,6
+11,player,Lorenzo Lucca,lorenzo lucca,11
+9,player,Lucas Bergvall,lucas bergvall,"9,13"
+5,player,Luka Vuskovic,luka vuskovic,5
+2,player,Marc Mechenoua,marc mechenoua,2
+2,player,Matteo Moretto,matteo moretto,2
+5,player,Micky van de Ven,micky van de ven,5
+6,player,Nicolo Schira,nicolo schira,6
+6,player,Noa Lang,noa lang,6
+3,player,Ousmane Dembele,ousmane dembele,3
+7,player,Philipp Turoff,philipp turoff,7
+11,player,Pierre Kalulu,pierre kalulu,11
+4,player,Quinten Timber,quinten timber,4
+6,player,Reda Belahyane,reda belahyane,6
+4,player,Roberto De Zerbi,roberto de zerbi,4
+4,player,Robin van Persie,robin van persie,4
+1,player,Sebastian Szymanski,sebastian szymanski,1
+5,player,Sergio Ramos,sergio ramos,5
+3,player,Tammy Abraham,tammy abraham,3
+9,player,Thomas Frank,thomas frank,"9,13"
+7,player,Thomas Kessler,thomas kessler,7

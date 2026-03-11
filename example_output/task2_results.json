@@ -1,0 +1,23 @@
+{
+  "method": "dense",
+  "duplicate_thresh": 0.75,
+  "novelty_thresh": 0.35,
+  "results": [
+    {
+      "incoming_text": "Eintracht Frankfurt finalized the transfer for 19-year-old VfL Bochum midfielder Cajetan Lenz this winter transfer window, and he is planned to join in the summer, despite competition from clubs like Bayer Leverkusen. Frankfurt has held recent talks with both the player and Bochum, who are demanded a transfer fee of €10-15 million, a record sale for Bochum. ",
+      "similarity": 0.9747931957244873,
+      "novelty": 0.1111111111111111,
+      "decision": "skip",
+      "best_match_index": 0,
+      "best_match_text": "Eintracht Frankfurt is actively pursuing a deal for 19-year-old VfL Bochum midfielder Cajetan Lenz this winter transfer window, with plans for him to join in the summer, amid competition from clubs like Bayer Leverkusen.[3][1][5] Frankfurt has held recent talks with both the player and Bochum, who are demanding a transfer fee of €10-15 million, potentially a record sale for Bochum.[3][1][5]"
+    },
+    {
+      "incoming_text": "Tottenham Hotspur's Lucas Bergvall, \nsuffered a high ankle sprain during the UEFA Champions League match against Borussia Dortmund last Tuesday, \nforcing him off after 63 minutes. Thomas Frank \nrevealed that the injury 'could be a longer one,' however further assessment \nwill take place in the next couple of days, in order to confirm an extended period on the sidelines. \nBergvall saw limited action against West Ham due to prior issues.",
+      "similarity": 0.9835605621337891,
+      "novelty": 0.20512820512820512,
+      "decision": "skip",
+      "best_match_index": 9,
+      "best_match_text": "Lucas Bergvall, Tottenham Hotspur's Swedish midfielder, suffered a high ankle sprain during the UEFA Champions League match against Borussia Dortmund on Tuesday, forcing him off after 63 minutes.[1][2] Tottenham manager Thomas Frank stated the injury 'could be a longer one,' with further assessment pending in the next couple of days, confirming a prolonged period on the sidelines.[1][2] This follows Bergvall's recent unfitness to play significantly against West Ham due to prior issues.[2]"
+    }
+  ]
+}

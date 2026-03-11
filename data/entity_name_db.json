@@ -1,0 +1,1954 @@
+{
+  "clubs": [
+    {
+      "canonical": "Paris Saint-Germain",
+      "aliases": [
+        "Paris Saint-Germain",
+        "PSG",
+        "Paris SG",
+        "Paris"
+      ]
+    },
+    {
+      "canonical": "Olympique Marseille",
+      "aliases": [
+        "Olympique Marseille",
+        "Marseille",
+        "OM"
+      ]
+    },
+    {
+      "canonical": "Olympique Lyonnais",
+      "aliases": [
+        "Olympique Lyonnais",
+        "Lyon",
+        "OL"
+      ]
+    },
+    {
+      "canonical": "AS Monaco",
+      "aliases": [
+        "AS Monaco",
+        "Monaco"
+      ]
+    },
+    {
+      "canonical": "Lille",
+      "aliases": [
+        "Lille",
+        "LOSC"
+      ]
+    },
+    {
+      "canonical": "Rennes",
+      "aliases": [
+        "Rennes",
+        "Stade Rennais"
+      ]
+    },
+    {
+      "canonical": "Nice",
+      "aliases": [
+        "Nice",
+        "OGC Nice"
+      ]
+    },
+    {
+      "canonical": "Lens",
+      "aliases": [
+        "Lens",
+        "RC Lens"
+      ]
+    },
+    {
+      "canonical": "Paris FC",
+      "aliases": [
+        "Paris FC",
+        "PFC"
+      ]
+    },
+    {
+      "canonical": "Strasbourg",
+      "aliases": [
+        "Strasbourg",
+        "Racing Strasbourg"
+      ]
+    },
+    {
+      "canonical": "Nantes",
+      "aliases": [
+        "Nantes"
+      ]
+    },
+    {
+      "canonical": "Montpellier",
+      "aliases": [
+        "Montpellier"
+      ]
+    },
+    {
+      "canonical": "Toulouse",
+      "aliases": [
+        "Toulouse"
+      ]
+    },
+    {
+      "canonical": "Reims",
+      "aliases": [
+        "Reims"
+      ]
+    },
+    {
+      "canonical": "Brest",
+      "aliases": [
+        "Brest"
+      ]
+    },
+    {
+      "canonical": "Le Havre",
+      "aliases": [
+        "Le Havre"
+      ]
+    },
+    {
+      "canonical": "Arsenal",
+      "aliases": [
+        "Arsenal"
+      ]
+    },
+    {
+      "canonical": "Aston Villa",
+      "aliases": [
+        "Aston Villa",
+        "Villa"
+      ]
+    },
+    {
+      "canonical": "Bournemouth",
+      "aliases": [
+        "Bournemouth"
+      ]
+    },
+    {
+      "canonical": "Brentford",
+      "aliases": [
+        "Brentford"
+      ]
+    },
+    {
+      "canonical": "Brighton and Hove Albion",
+      "aliases": [
+        "Brighton and Hove Albion",
+        "Brighton & Hove Albion",
+        "Brighton"
+      ]
+    },
+    {
+      "canonical": "Burnley",
+      "aliases": [
+        "Burnley"
+      ]
+    },
+    {
+      "canonical": "Chelsea",
+      "aliases": [
+        "Chelsea"
+      ]
+    },
+    {
+      "canonical": "Crystal Palace",
+      "aliases": [
+        "Crystal Palace"
+      ]
+    },
+    {
+      "canonical": "Everton",
+      "aliases": [
+        "Everton"
+      ]
+    },
+    {
+      "canonical": "Fulham",
+      "aliases": [
+        "Fulham"
+      ]
+    },
+    {
+      "canonical": "Ipswich Town",
+      "aliases": [
+        "Ipswich Town",
+        "Ipswich"
+      ]
+    },
+    {
+      "canonical": "Leicester City",
+      "aliases": [
+        "Leicester City",
+        "Leicester"
+      ]
+    },
+    {
+      "canonical": "Liverpool",
+      "aliases": [
+        "Liverpool"
+      ]
+    },
+    {
+      "canonical": "Manchester City",
+      "aliases": [
+        "Manchester City",
+        "Man City",
+        "City"
+      ]
+    },
+    {
+      "canonical": "Manchester United",
+      "aliases": [
+        "Manchester United",
+        "Man United",
+        "United"
+      ]
+    },
+    {
+      "canonical": "Newcastle United",
+      "aliases": [
+        "Newcastle United",
+        "Newcastle"
+      ]
+    },
+    {
+      "canonical": "Nottingham Forest",
+      "aliases": [
+        "Nottingham Forest",
+        "Forest"
+      ]
+    },
+    {
+      "canonical": "Southampton",
+      "aliases": [
+        "Southampton"
+      ]
+    },
+    {
+      "canonical": "Tottenham Hotspur",
+      "aliases": [
+        "Tottenham Hotspur",
+        "Tottenham",
+        "Spurs"
+      ]
+    },
+    {
+      "canonical": "West Ham United",
+      "aliases": [
+        "West Ham United",
+        "West Ham"
+      ]
+    },
+    {
+      "canonical": "Wolverhampton Wanderers",
+      "aliases": [
+        "Wolverhampton Wanderers",
+        "Wolves"
+      ]
+    },
+    {
+      "canonical": "Leeds United",
+      "aliases": [
+        "Leeds United",
+        "Leeds"
+      ]
+    },
+    {
+      "canonical": "Real Madrid",
+      "aliases": [
+        "Real Madrid",
+        "Madrid"
+      ]
+    },
+    {
+      "canonical": "Barcelona",
+      "aliases": [
+        "Barcelona",
+        "Barca"
+      ]
+    },
+    {
+      "canonical": "Atletico Madrid",
+      "aliases": [
+        "Atletico Madrid",
+        "Atletico",
+        "Atlético Madrid"
+      ]
+    },
+    {
+      "canonical": "Athletic Bilbao",
+      "aliases": [
+        "Athletic Bilbao",
+        "Athletic"
+      ]
+    },
+    {
+      "canonical": "Real Sociedad",
+      "aliases": [
+        "Real Sociedad"
+      ]
+    },
+    {
+      "canonical": "Sevilla",
+      "aliases": [
+        "Sevilla"
+      ]
+    },
+    {
+      "canonical": "Valencia",
+      "aliases": [
+        "Valencia"
+      ]
+    },
+    {
+      "canonical": "Villarreal",
+      "aliases": [
+        "Villarreal"
+      ]
+    },
+    {
+      "canonical": "Girona",
+      "aliases": [
+        "Girona"
+      ]
+    },
+    {
+      "canonical": "Real Betis",
+      "aliases": [
+        "Real Betis",
+        "Betis"
+      ]
+    },
+    {
+      "canonical": "Celta Vigo",
+      "aliases": [
+        "Celta Vigo",
+        "Celta"
+      ]
+    },
+    {
+      "canonical": "Osasuna",
+      "aliases": [
+        "Osasuna"
+      ]
+    },
+    {
+      "canonical": "Getafe",
+      "aliases": [
+        "Getafe"
+      ]
+    },
+    {
+      "canonical": "Rayo Vallecano",
+      "aliases": [
+        "Rayo Vallecano",
+        "Rayo"
+      ]
+    },
+    {
+      "canonical": "Mallorca",
+      "aliases": [
+        "Mallorca"
+      ]
+    },
+    {
+      "canonical": "AC Milan",
+      "aliases": [
+        "AC Milan",
+        "Milan"
+      ]
+    },
+    {
+      "canonical": "Inter Milan",
+      "aliases": [
+        "Inter Milan",
+        "Inter"
+      ]
+    },
+    {
+      "canonical": "Juventus",
+      "aliases": [
+        "Juventus",
+        "Juve"
+      ]
+    },
+    {
+      "canonical": "Napoli",
+      "aliases": [
+        "Napoli"
+      ]
+    },
+    {
+      "canonical": "Roma",
+      "aliases": [
+        "Roma"
+      ]
+    },
+    {
+      "canonical": "Lazio",
+      "aliases": [
+        "Lazio"
+      ]
+    },
+    {
+      "canonical": "Atalanta",
+      "aliases": [
+        "Atalanta"
+      ]
+    },
+    {
+      "canonical": "Fiorentina",
+      "aliases": [
+        "Fiorentina"
+      ]
+    },
+    {
+      "canonical": "Torino",
+      "aliases": [
+        "Torino"
+      ]
+    },
+    {
+      "canonical": "Bologna",
+      "aliases": [
+        "Bologna"
+      ]
+    },
+    {
+      "canonical": "Hellas Verona",
+      "aliases": [
+        "Hellas Verona",
+        "Verona"
+      ]
+    },
+    {
+      "canonical": "Udinese",
+      "aliases": [
+        "Udinese"
+      ]
+    },
+    {
+      "canonical": "Genoa",
+      "aliases": [
+        "Genoa"
+      ]
+    },
+    {
+      "canonical": "Cagliari",
+      "aliases": [
+        "Cagliari"
+      ]
+    },
+    {
+      "canonical": "Monza",
+      "aliases": [
+        "Monza"
+      ]
+    },
+    {
+      "canonical": "Parma",
+      "aliases": [
+        "Parma"
+      ]
+    },
+    {
+      "canonical": "Como",
+      "aliases": [
+        "Como"
+      ]
+    },
+    {
+      "canonical": "Bayern Munich",
+      "aliases": [
+        "Bayern Munich",
+        "Bayern"
+      ]
+    },
+    {
+      "canonical": "Borussia Dortmund",
+      "aliases": [
+        "Borussia Dortmund",
+        "Dortmund"
+      ]
+    },
+    {
+      "canonical": "Bayer Leverkusen",
+      "aliases": [
+        "Bayer Leverkusen",
+        "Leverkusen"
+      ]
+    },
+    {
+      "canonical": "RB Leipzig",
+      "aliases": [
+        "RB Leipzig",
+        "Leipzig"
+      ]
+    },
+    {
+      "canonical": "Eintracht Frankfurt",
+      "aliases": [
+        "Eintracht Frankfurt",
+        "Frankfurt"
+      ]
+    },
+    {
+      "canonical": "VfB Stuttgart",
+      "aliases": [
+        "VfB Stuttgart",
+        "Stuttgart"
+      ]
+    },
+    {
+      "canonical": "Freiburg",
+      "aliases": [
+        "Freiburg"
+      ]
+    },
+    {
+      "canonical": "Hoffenheim",
+      "aliases": [
+        "Hoffenheim"
+      ]
+    },
+    {
+      "canonical": "Wolfsburg",
+      "aliases": [
+        "Wolfsburg"
+      ]
+    },
+    {
+      "canonical": "Union Berlin",
+      "aliases": [
+        "Union Berlin"
+      ]
+    },
+    {
+      "canonical": "Mainz 05",
+      "aliases": [
+        "Mainz 05",
+        "Mainz"
+      ]
+    },
+    {
+      "canonical": "Borussia Monchengladbach",
+      "aliases": [
+        "Borussia Monchengladbach",
+        "Monchengladbach",
+        "Gladbach"
+      ]
+    },
+    {
+      "canonical": "FC Koln",
+      "aliases": [
+        "FC Koln",
+        "1. FC Koln",
+        "Koln",
+        "Cologne",
+        "FC Köln",
+        "1. FC Köln",
+        "Köln"
+      ]
+    },
+    {
+      "canonical": "Werder Bremen",
+      "aliases": [
+        "Werder Bremen",
+        "Bremen"
+      ]
+    },
+    {
+      "canonical": "Augsburg",
+      "aliases": [
+        "Augsburg"
+      ]
+    },
+    {
+      "canonical": "VfL Bochum",
+      "aliases": [
+        "VfL Bochum",
+        "Bochum"
+      ]
+    },
+    {
+      "canonical": "Heidenheim",
+      "aliases": [
+        "Heidenheim"
+      ]
+    },
+    {
+      "canonical": "St. Pauli",
+      "aliases": [
+        "St. Pauli"
+      ]
+    },
+    {
+      "canonical": "Hamburg SV",
+      "aliases": [
+        "Hamburg SV",
+        "Hamburg",
+        "HSV"
+      ]
+    },
+    {
+      "canonical": "Ajax",
+      "aliases": [
+        "Ajax"
+      ]
+    },
+    {
+      "canonical": "PSV Eindhoven",
+      "aliases": [
+        "PSV Eindhoven",
+        "PSV"
+      ]
+    },
+    {
+      "canonical": "Feyenoord",
+      "aliases": [
+        "Feyenoord",
+        "Feyenoord Rotterdam"
+      ]
+    },
+    {
+      "canonical": "AZ Alkmaar",
+      "aliases": [
+        "AZ Alkmaar",
+        "AZ"
+      ]
+    },
+    {
+      "canonical": "Twente",
+      "aliases": [
+        "Twente",
+        "FC Twente"
+      ]
+    },
+    {
+      "canonical": "Benfica",
+      "aliases": [
+        "Benfica"
+      ]
+    },
+    {
+      "canonical": "Porto",
+      "aliases": [
+        "Porto",
+        "FC Porto"
+      ]
+    },
+    {
+      "canonical": "Sporting CP",
+      "aliases": [
+        "Sporting CP",
+        "Sporting"
+      ]
+    },
+    {
+      "canonical": "Braga",
+      "aliases": [
+        "Braga"
+      ]
+    },
+    {
+      "canonical": "Celtic",
+      "aliases": [
+        "Celtic"
+      ]
+    },
+    {
+      "canonical": "Rangers",
+      "aliases": [
+        "Rangers"
+      ]
+    },
+    {
+      "canonical": "Fenerbahce",
+      "aliases": [
+        "Fenerbahce"
+      ]
+    },
+    {
+      "canonical": "Galatasaray",
+      "aliases": [
+        "Galatasaray"
+      ]
+    },
+    {
+      "canonical": "Besiktas",
+      "aliases": [
+        "Besiktas"
+      ]
+    },
+    {
+      "canonical": "Trabzonspor",
+      "aliases": [
+        "Trabzonspor"
+      ]
+    },
+    {
+      "canonical": "RB Salzburg",
+      "aliases": [
+        "RB Salzburg",
+        "Salzburg"
+      ]
+    },
+    {
+      "canonical": "Shakhtar Donetsk",
+      "aliases": [
+        "Shakhtar Donetsk",
+        "Shakhtar"
+      ]
+    },
+    {
+      "canonical": "Dynamo Kyiv",
+      "aliases": [
+        "Dynamo Kyiv",
+        "Dynamo Kiev"
+      ]
+    },
+    {
+      "canonical": "Club Brugge",
+      "aliases": [
+        "Club Brugge",
+        "Brugge"
+      ]
+    },
+    {
+      "canonical": "Anderlecht",
+      "aliases": [
+        "Anderlecht"
+      ]
+    },
+    {
+      "canonical": "Basel",
+      "aliases": [
+        "Basel"
+      ]
+    },
+    {
+      "canonical": "Young Boys",
+      "aliases": [
+        "Young Boys"
+      ]
+    },
+    {
+      "canonical": "Sparta Prague",
+      "aliases": [
+        "Sparta Prague"
+      ]
+    },
+    {
+      "canonical": "Slavia Prague",
+      "aliases": [
+        "Slavia Prague"
+      ]
+    },
+    {
+      "canonical": "Dinamo Zagreb",
+      "aliases": [
+        "Dinamo Zagreb"
+      ]
+    },
+    {
+      "canonical": "Red Star Belgrade",
+      "aliases": [
+        "Red Star Belgrade"
+      ]
+    },
+    {
+      "canonical": "Partizan",
+      "aliases": [
+        "Partizan"
+      ]
+    },
+    {
+      "canonical": "Corinthians",
+      "aliases": [
+        "Corinthians"
+      ]
+    },
+    {
+      "canonical": "Flamengo",
+      "aliases": [
+        "Flamengo"
+      ]
+    },
+    {
+      "canonical": "Palmeiras",
+      "aliases": [
+        "Palmeiras"
+      ]
+    },
+    {
+      "canonical": "Sao Paulo",
+      "aliases": [
+        "Sao Paulo"
+      ]
+    },
+    {
+      "canonical": "Santos",
+      "aliases": [
+        "Santos"
+      ]
+    },
+    {
+      "canonical": "Fluminense",
+      "aliases": [
+        "Fluminense"
+      ]
+    },
+    {
+      "canonical": "Botafogo",
+      "aliases": [
+        "Botafogo"
+      ]
+    },
+    {
+      "canonical": "River Plate",
+      "aliases": [
+        "River Plate"
+      ]
+    },
+    {
+      "canonical": "Boca Juniors",
+      "aliases": [
+        "Boca Juniors",
+        "Boca"
+      ]
+    },
+    {
+      "canonical": "Independiente",
+      "aliases": [
+        "Independiente"
+      ]
+    },
+    {
+      "canonical": "Racing Club",
+      "aliases": [
+        "Racing Club"
+      ]
+    },
+    {
+      "canonical": "Inter Miami",
+      "aliases": [
+        "Inter Miami"
+      ]
+    },
+    {
+      "canonical": "LA Galaxy",
+      "aliases": [
+        "LA Galaxy",
+        "Los Angeles Galaxy"
+      ]
+    },
+    {
+      "canonical": "Atlanta United",
+      "aliases": [
+        "Atlanta United"
+      ]
+    }
+  ],
+  "players": [
+    {
+      "canonical": "Cajetan Lenz",
+      "aliases": [
+        "Cajetan Lenz",
+        "Lenz"
+      ]
+    },
+    {
+      "canonical": "Sebastian Szymanski",
+      "aliases": [
+        "Sebastian Szymanski",
+        "Szymanski"
+      ]
+    },
+    {
+      "canonical": "Diego Coppola",
+      "aliases": [
+        "Diego Coppola",
+        "Coppola"
+      ]
+    },
+    {
+      "canonical": "Goncalo Ramos",
+      "aliases": [
+        "Goncalo Ramos",
+        "Gonçalo Ramos"
+      ]
+    },
+    {
+      "canonical": "Ousmane Dembele",
+      "aliases": [
+        "Ousmane Dembele",
+        "Dembele",
+        "Ousmane Dembélé"
+      ]
+    },
+    {
+      "canonical": "Tammy Abraham",
+      "aliases": [
+        "Tammy Abraham",
+        "Abraham"
+      ]
+    },
+    {
+      "canonical": "Jean-Philippe Mateta",
+      "aliases": [
+        "Jean-Philippe Mateta",
+        "Mateta"
+      ]
+    },
+    {
+      "canonical": "Julian Alvarez",
+      "aliases": [
+        "Julian Alvarez",
+        "Alvarez",
+        "Julián Álvarez"
+      ]
+    },
+    {
+      "canonical": "Quinten Timber",
+      "aliases": [
+        "Quinten Timber"
+      ]
+    },
+    {
+      "canonical": "Jurrien Timber",
+      "aliases": [
+        "Jurrien Timber",
+        "Jurriën Timber"
+      ]
+    },
+    {
+      "canonical": "Ethan Nwaneri",
+      "aliases": [
+        "Ethan Nwaneri",
+        "Nwaneri"
+      ]
+    },
+    {
+      "canonical": "Luka Vuskovic",
+      "aliases": [
+        "Luka Vuskovic",
+        "Vuskovic",
+        "Luka Vušković"
+      ]
+    },
+    {
+      "canonical": "Sergio Ramos",
+      "aliases": [
+        "Sergio Ramos"
+      ]
+    },
+    {
+      "canonical": "Cristian Romero",
+      "aliases": [
+        "Cristian Romero",
+        "Romero"
+      ]
+    },
+    {
+      "canonical": "Micky van de Ven",
+      "aliases": [
+        "Micky van de Ven",
+        "van de Ven"
+      ]
+    },
+    {
+      "canonical": "Jacobo Ramon",
+      "aliases": [
+        "Jacobo Ramon"
+      ]
+    },
+    {
+      "canonical": "Giovane Nascimento",
+      "aliases": [
+        "Giovane Nascimento",
+        "Giovane"
+      ]
+    },
+    {
+      "canonical": "Noa Lang",
+      "aliases": [
+        "Noa Lang",
+        "Lang"
+      ]
+    },
+    {
+      "canonical": "Reda Belahyane",
+      "aliases": [
+        "Reda Belahyane",
+        "Belahyane"
+      ]
+    },
+    {
+      "canonical": "Abdessamad Ezzalzouli",
+      "aliases": [
+        "Abdessamad Ezzalzouli",
+        "Ezzalzouli"
+      ]
+    },
+    {
+      "canonical": "Lorenzo Lucca",
+      "aliases": [
+        "Lorenzo Lucca",
+        "Lucca"
+      ]
+    },
+    {
+      "canonical": "Thomas Kessler",
+      "aliases": [
+        "Thomas Kessler",
+        "Kessler"
+      ]
+    },
+    {
+      "canonical": "Habib Beye",
+      "aliases": [
+        "Habib Beye",
+        "Beye"
+      ]
+    },
+    {
+      "canonical": "Jeremy Jacquet",
+      "aliases": [
+        "Jeremy Jacquet",
+        "Jacquet",
+        "Jérémy Jacquet"
+      ]
+    },
+    {
+      "canonical": "Aaron Anselmino",
+      "aliases": [
+        "Aaron Anselmino",
+        "Anselmino"
+      ]
+    },
+    {
+      "canonical": "Lucas Bergvall",
+      "aliases": [
+        "Lucas Bergvall",
+        "Bergvall"
+      ]
+    },
+    {
+      "canonical": "Thomas Frank",
+      "aliases": [
+        "Thomas Frank"
+      ]
+    },
+    {
+      "canonical": "Harry Wilson",
+      "aliases": [
+        "Harry Wilson",
+        "Wilson"
+      ]
+    },
+    {
+      "canonical": "Marc Mechenoua",
+      "aliases": [
+        "Marc Mechenoua"
+      ]
+    },
+    {
+      "canonical": "Matteo Moretto",
+      "aliases": [
+        "Matteo Moretto"
+      ]
+    },
+    {
+      "canonical": "Fabrizio Romano",
+      "aliases": [
+        "Fabrizio Romano"
+      ]
+    },
+    {
+      "canonical": "Kylian Mbappe",
+      "aliases": [
+        "Kylian Mbappe",
+        "Mbappe"
+      ]
+    },
+    {
+      "canonical": "Erling Haaland",
+      "aliases": [
+        "Erling Haaland",
+        "Haaland"
+      ]
+    },
+    {
+      "canonical": "Kevin De Bruyne",
+      "aliases": [
+        "Kevin De Bruyne",
+        "De Bruyne"
+      ]
+    },
+    {
+      "canonical": "Phil Foden",
+      "aliases": [
+        "Phil Foden",
+        "Foden"
+      ]
+    },
+    {
+      "canonical": "Bernardo Silva",
+      "aliases": [
+        "Bernardo Silva"
+      ]
+    },
+    {
+      "canonical": "Rodri",
+      "aliases": [
+        "Rodri"
+      ]
+    },
+    {
+      "canonical": "Jack Grealish",
+      "aliases": [
+        "Jack Grealish",
+        "Grealish"
+      ]
+    },
+    {
+      "canonical": "Ruben Dias",
+      "aliases": [
+        "Ruben Dias",
+        "Dias"
+      ]
+    },
+    {
+      "canonical": "Manuel Akanji",
+      "aliases": [
+        "Manuel Akanji",
+        "Akanji"
+      ]
+    },
+    {
+      "canonical": "Josko Gvardiol",
+      "aliases": [
+        "Josko Gvardiol",
+        "Gvardiol"
+      ]
+    },
+    {
+      "canonical": "Bukayo Saka",
+      "aliases": [
+        "Bukayo Saka",
+        "Saka"
+      ]
+    },
+    {
+      "canonical": "Martin Odegaard",
+      "aliases": [
+        "Martin Odegaard",
+        "Odegaard"
+      ]
+    },
+    {
+      "canonical": "Declan Rice",
+      "aliases": [
+        "Declan Rice",
+        "Rice"
+      ]
+    },
+    {
+      "canonical": "William Saliba",
+      "aliases": [
+        "William Saliba",
+        "Saliba"
+      ]
+    },
+    {
+      "canonical": "Gabriel Martinelli",
+      "aliases": [
+        "Gabriel Martinelli",
+        "Martinelli"
+      ]
+    },
+    {
+      "canonical": "Kai Havertz",
+      "aliases": [
+        "Kai Havertz",
+        "Havertz"
+      ]
+    },
+    {
+      "canonical": "Cole Palmer",
+      "aliases": [
+        "Cole Palmer",
+        "Palmer"
+      ]
+    },
+    {
+      "canonical": "Enzo Fernandez",
+      "aliases": [
+        "Enzo Fernandez",
+        "Fernandez"
+      ]
+    },
+    {
+      "canonical": "Moises Caicedo",
+      "aliases": [
+        "Moises Caicedo",
+        "Caicedo"
+      ]
+    },
+    {
+      "canonical": "Reece James",
+      "aliases": [
+        "Reece James"
+      ]
+    },
+    {
+      "canonical": "Nicolas Jackson",
+      "aliases": [
+        "Nicolas Jackson",
+        "Jackson"
+      ]
+    },
+    {
+      "canonical": "Mohamed Salah",
+      "aliases": [
+        "Mohamed Salah",
+        "Salah"
+      ]
+    },
+    {
+      "canonical": "Darwin Nunez",
+      "aliases": [
+        "Darwin Nunez",
+        "Nunez"
+      ]
+    },
+    {
+      "canonical": "Luis Diaz",
+      "aliases": [
+        "Luis Diaz",
+        "Diaz"
+      ]
+    },
+    {
+      "canonical": "Alexis Mac Allister",
+      "aliases": [
+        "Alexis Mac Allister",
+        "Mac Allister"
+      ]
+    },
+    {
+      "canonical": "Trent Alexander-Arnold",
+      "aliases": [
+        "Trent Alexander-Arnold",
+        "Trent Alexander Arnold"
+      ]
+    },
+    {
+      "canonical": "Virgil van Dijk",
+      "aliases": [
+        "Virgil van Dijk",
+        "van Dijk"
+      ]
+    },
+    {
+      "canonical": "Alisson Becker",
+      "aliases": [
+        "Alisson Becker",
+        "Alisson"
+      ]
+    },
+    {
+      "canonical": "Son Heung-min",
+      "aliases": [
+        "Son Heung-min",
+        "Son Heung min"
+      ]
+    },
+    {
+      "canonical": "James Maddison",
+      "aliases": [
+        "James Maddison",
+        "Maddison"
+      ]
+    },
+    {
+      "canonical": "Richarlison",
+      "aliases": [
+        "Richarlison"
+      ]
+    },
+    {
+      "canonical": "Dejan Kulusevski",
+      "aliases": [
+        "Dejan Kulusevski",
+        "Kulusevski"
+      ]
+    },
+    {
+      "canonical": "Bruno Fernandes",
+      "aliases": [
+        "Bruno Fernandes",
+        "Fernandes"
+      ]
+    },
+    {
+      "canonical": "Marcus Rashford",
+      "aliases": [
+        "Marcus Rashford",
+        "Rashford"
+      ]
+    },
+    {
+      "canonical": "Alejandro Garnacho",
+      "aliases": [
+        "Alejandro Garnacho",
+        "Garnacho"
+      ]
+    },
+    {
+      "canonical": "Rasmus Hojlund",
+      "aliases": [
+        "Rasmus Hojlund",
+        "Hojlund"
+      ]
+    },
+    {
+      "canonical": "Kobbie Mainoo",
+      "aliases": [
+        "Kobbie Mainoo",
+        "Mainoo"
+      ]
+    },
+    {
+      "canonical": "Mason Mount",
+      "aliases": [
+        "Mason Mount",
+        "Mount"
+      ]
+    },
+    {
+      "canonical": "Jadon Sancho",
+      "aliases": [
+        "Jadon Sancho",
+        "Sancho"
+      ]
+    },
+    {
+      "canonical": "Ollie Watkins",
+      "aliases": [
+        "Ollie Watkins",
+        "Watkins"
+      ]
+    },
+    {
+      "canonical": "Emiliano Martinez",
+      "aliases": [
+        "Emiliano Martinez",
+        "Emi Martinez"
+      ]
+    },
+    {
+      "canonical": "Dominic Solanke",
+      "aliases": [
+        "Dominic Solanke",
+        "Solanke"
+      ]
+    },
+    {
+      "canonical": "Alexander Isak",
+      "aliases": [
+        "Alexander Isak",
+        "Isak"
+      ]
+    },
+    {
+      "canonical": "Bruno Guimaraes",
+      "aliases": [
+        "Bruno Guimaraes",
+        "Guimaraes"
+      ]
+    },
+    {
+      "canonical": "Sandro Tonali",
+      "aliases": [
+        "Sandro Tonali",
+        "Tonali"
+      ]
+    },
+    {
+      "canonical": "Callum Wilson",
+      "aliases": [
+        "Callum Wilson"
+      ]
+    },
+    {
+      "canonical": "Ivan Toney",
+      "aliases": [
+        "Ivan Toney",
+        "Toney"
+      ]
+    },
+    {
+      "canonical": "Bryan Mbeumo",
+      "aliases": [
+        "Bryan Mbeumo",
+        "Mbeumo"
+      ]
+    },
+    {
+      "canonical": "Eberechi Eze",
+      "aliases": [
+        "Eberechi Eze",
+        "Eze"
+      ]
+    },
+    {
+      "canonical": "Michael Olise",
+      "aliases": [
+        "Michael Olise",
+        "Olise"
+      ]
+    },
+    {
+      "canonical": "Jarrod Bowen",
+      "aliases": [
+        "Jarrod Bowen",
+        "Bowen"
+      ]
+    },
+    {
+      "canonical": "James Ward-Prowse",
+      "aliases": [
+        "James Ward-Prowse",
+        "Ward-Prowse"
+      ]
+    },
+    {
+      "canonical": "Jude Bellingham",
+      "aliases": [
+        "Jude Bellingham",
+        "Bellingham"
+      ]
+    },
+    {
+      "canonical": "Vinicius Junior",
+      "aliases": [
+        "Vinicius Junior",
+        "Vinicius"
+      ]
+    },
+    {
+      "canonical": "Rodrygo",
+      "aliases": [
+        "Rodrygo"
+      ]
+    },
+    {
+      "canonical": "Federico Valverde",
+      "aliases": [
+        "Federico Valverde",
+        "Valverde"
+      ]
+    },
+    {
+      "canonical": "Eduardo Camavinga",
+      "aliases": [
+        "Eduardo Camavinga",
+        "Camavinga"
+      ]
+    },
+    {
+      "canonical": "Aurelien Tchouameni",
+      "aliases": [
+        "Aurelien Tchouameni",
+        "Tchouameni"
+      ]
+    },
+    {
+      "canonical": "Toni Kroos",
+      "aliases": [
+        "Toni Kroos",
+        "Kroos"
+      ]
+    },
+    {
+      "canonical": "Luka Modric",
+      "aliases": [
+        "Luka Modric",
+        "Modric"
+      ]
+    },
+    {
+      "canonical": "Thibaut Courtois",
+      "aliases": [
+        "Thibaut Courtois",
+        "Courtois"
+      ]
+    },
+    {
+      "canonical": "Antonio Rudiger",
+      "aliases": [
+        "Antonio Rudiger",
+        "Rudiger"
+      ]
+    },
+    {
+      "canonical": "Dani Carvajal",
+      "aliases": [
+        "Dani Carvajal",
+        "Carvajal"
+      ]
+    },
+    {
+      "canonical": "Robert Lewandowski",
+      "aliases": [
+        "Robert Lewandowski",
+        "Lewandowski"
+      ]
+    },
+    {
+      "canonical": "Pedri",
+      "aliases": [
+        "Pedri"
+      ]
+    },
+    {
+      "canonical": "Gavi",
+      "aliases": [
+        "Gavi"
+      ]
+    },
+    {
+      "canonical": "Frenkie de Jong",
+      "aliases": [
+        "Frenkie de Jong",
+        "de Jong"
+      ]
+    },
+    {
+      "canonical": "Lamine Yamal",
+      "aliases": [
+        "Lamine Yamal",
+        "Yamal"
+      ]
+    },
+    {
+      "canonical": "Joao Felix",
+      "aliases": [
+        "Joao Felix",
+        "Felix"
+      ]
+    },
+    {
+      "canonical": "Marc-Andre ter Stegen",
+      "aliases": [
+        "Marc-Andre ter Stegen",
+        "ter Stegen"
+      ]
+    },
+    {
+      "canonical": "Antoine Griezmann",
+      "aliases": [
+        "Antoine Griezmann",
+        "Griezmann"
+      ]
+    },
+    {
+      "canonical": "Alvaro Morata",
+      "aliases": [
+        "Alvaro Morata",
+        "Morata"
+      ]
+    },
+    {
+      "canonical": "Memphis Depay",
+      "aliases": [
+        "Memphis Depay",
+        "Depay"
+      ]
+    },
+    {
+      "canonical": "Nico Williams",
+      "aliases": [
+        "Nico Williams"
+      ]
+    },
+    {
+      "canonical": "Mikel Oyarzabal",
+      "aliases": [
+        "Mikel Oyarzabal",
+        "Oyarzabal"
+      ]
+    },
+    {
+      "canonical": "Isco",
+      "aliases": [
+        "Isco"
+      ]
+    },
+    {
+      "canonical": "Lautaro Martinez",
+      "aliases": [
+        "Lautaro Martinez",
+        "Lautaro"
+      ]
+    },
+    {
+      "canonical": "Nicolo Barella",
+      "aliases": [
+        "Nicolo Barella",
+        "Barella"
+      ]
+    },
+    {
+      "canonical": "Hakan Calhanoglu",
+      "aliases": [
+        "Hakan Calhanoglu",
+        "Calhanoglu"
+      ]
+    },
+    {
+      "canonical": "Rafael Leao",
+      "aliases": [
+        "Rafael Leao",
+        "Leao"
+      ]
+    },
+    {
+      "canonical": "Theo Hernandez",
+      "aliases": [
+        "Theo Hernandez"
+      ]
+    },
+    {
+      "canonical": "Olivier Giroud",
+      "aliases": [
+        "Olivier Giroud",
+        "Giroud"
+      ]
+    },
+    {
+      "canonical": "Dusan Vlahovic",
+      "aliases": [
+        "Dusan Vlahovic",
+        "Vlahovic"
+      ]
+    },
+    {
+      "canonical": "Federico Chiesa",
+      "aliases": [
+        "Federico Chiesa",
+        "Chiesa"
+      ]
+    },
+    {
+      "canonical": "Paulo Dybala",
+      "aliases": [
+        "Paulo Dybala",
+        "Dybala"
+      ]
+    },
+    {
+      "canonical": "Romelu Lukaku",
+      "aliases": [
+        "Romelu Lukaku",
+        "Lukaku"
+      ]
+    },
+    {
+      "canonical": "Victor Osimhen",
+      "aliases": [
+        "Victor Osimhen",
+        "Osimhen"
+      ]
+    },
+    {
+      "canonical": "Khvicha Kvaratskhelia",
+      "aliases": [
+        "Khvicha Kvaratskhelia",
+        "Kvaratskhelia"
+      ]
+    },
+    {
+      "canonical": "Harry Kane",
+      "aliases": [
+        "Harry Kane",
+        "Kane"
+      ]
+    },
+    {
+      "canonical": "Jamal Musiala",
+      "aliases": [
+        "Jamal Musiala",
+        "Musiala"
+      ]
+    },
+    {
+      "canonical": "Leroy Sane",
+      "aliases": [
+        "Leroy Sane",
+        "Sane"
+      ]
+    },
+    {
+      "canonical": "Thomas Muller",
+      "aliases": [
+        "Thomas Muller",
+        "Muller"
+      ]
+    },
+    {
+      "canonical": "Joshua Kimmich",
+      "aliases": [
+        "Joshua Kimmich",
+        "Kimmich"
+      ]
+    },
+    {
+      "canonical": "Alphonso Davies",
+      "aliases": [
+        "Alphonso Davies",
+        "Davies"
+      ]
+    },
+    {
+      "canonical": "Florian Wirtz",
+      "aliases": [
+        "Florian Wirtz",
+        "Wirtz"
+      ]
+    },
+    {
+      "canonical": "Granit Xhaka",
+      "aliases": [
+        "Granit Xhaka",
+        "Xhaka"
+      ]
+    },
+    {
+      "canonical": "Jeremie Frimpong",
+      "aliases": [
+        "Jeremie Frimpong",
+        "Frimpong"
+      ]
+    },
+    {
+      "canonical": "Victor Boniface",
+      "aliases": [
+        "Victor Boniface",
+        "Boniface"
+      ]
+    },
+    {
+      "canonical": "Xavi Simons",
+      "aliases": [
+        "Xavi Simons"
+      ]
+    },
+    {
+      "canonical": "Lois Openda",
+      "aliases": [
+        "Lois Openda",
+        "Openda"
+      ]
+    },
+    {
+      "canonical": "Serhou Guirassy",
+      "aliases": [
+        "Serhou Guirassy",
+        "Guirassy"
+      ]
+    },
+    {
+      "canonical": "Karim Adeyemi",
+      "aliases": [
+        "Karim Adeyemi",
+        "Adeyemi"
+      ]
+    },
+    {
+      "canonical": "Julian Brandt",
+      "aliases": [
+        "Julian Brandt",
+        "Brandt"
+      ]
+    },
+    {
+      "canonical": "Mats Hummels",
+      "aliases": [
+        "Mats Hummels",
+        "Hummels"
+      ]
+    },
+    {
+      "canonical": "Lionel Messi",
+      "aliases": [
+        "Lionel Messi",
+        "Messi"
+      ]
+    },
+    {
+      "canonical": "Cristiano Ronaldo",
+      "aliases": [
+        "Cristiano Ronaldo",
+        "Ronaldo"
+      ]
+    },
+    {
+      "canonical": "Neymar",
+      "aliases": [
+        "Neymar"
+      ]
+    },
+    {
+      "canonical": "Luis Suarez",
+      "aliases": [
+        "Luis Suarez",
+        "Suarez"
+      ]
+    },
+    {
+      "canonical": "Angel Di Maria",
+      "aliases": [
+        "Angel Di Maria",
+        "Di Maria"
+      ]
+    },
+    {
+      "canonical": "Edinson Cavani",
+      "aliases": [
+        "Edinson Cavani",
+        "Cavani"
+      ]
+    },
+    {
+      "canonical": "Sergio Busquets",
+      "aliases": [
+        "Sergio Busquets",
+        "Busquets"
+      ]
+    },
+    {
+      "canonical": "Jordi Alba",
+      "aliases": [
+        "Jordi Alba"
+      ]
+    },
+    {
+      "canonical": "Giorgio Chiellini",
+      "aliases": [
+        "Giorgio Chiellini",
+        "Chiellini"
+      ]
+    },
+    {
+      "canonical": "Thiago Silva",
+      "aliases": [
+        "Thiago Silva"
+      ]
+    },
+    {
+      "canonical": "Casemiro",
+      "aliases": [
+        "Casemiro"
+      ]
+    },
+    {
+      "canonical": "Martin Zubimendi",
+      "aliases": [
+        "Martin Zubimendi",
+        "Zubimendi"
+      ]
+    },
+    {
+      "canonical": "Joao Neves",
+      "aliases": [
+        "Joao Neves"
+      ]
+    },
+    {
+      "canonical": "Randal Kolo Muani",
+      "aliases": [
+        "Randal Kolo Muani",
+        "Kolo Muani"
+      ]
+    },
+    {
+      "canonical": "Achraf Hakimi",
+      "aliases": [
+        "Achraf Hakimi",
+        "Hakimi"
+      ]
+    },
+    {
+      "canonical": "Donnarumma",
+      "aliases": [
+        "Gianluigi Donnarumma",
+        "Donnarumma"
+      ]
+    },
+    {
+      "canonical": "Donyell Malen",
+      "aliases": [
+        "Donyell Malen"
+      ]
+    },
+    {
+      "canonical": "Robin van Persie",
+      "aliases": [
+        "Robin van Persie"
+      ]
+    },
+    {
+      "canonical": "Roberto De Zerbi",
+      "aliases": [
+        "Roberto De Zerbi"
+      ]
+    },
+    {
+      "canonical": "Philipp Turoff",
+      "aliases": [
+        "Philipp Turoff",
+        "Philipp Türoff"
+      ]
+    },
+    {
+      "canonical": "Juanlu Sanchez",
+      "aliases": [
+        "Juanlu Sanchez",
+        "Juanlu Sánchez",
+        "Juanlu"
+      ]
+    },
+    {
+      "canonical": "Pierre Kalulu",
+      "aliases": [
+        "Pierre Kalulu"
+      ]
+    },
+    {
+      "canonical": "Gianluca Di Marzio",
+      "aliases": [
+        "Gianluca Di Marzio"
+      ]
+    },
+    {
+      "canonical": "Alfredo Pedulla",
+      "aliases": [
+        "Alfredo Pedulla",
+        "Alfredo Pedullà"
+      ]
+    },
+    {
+      "canonical": "Nicolo Schira",
+      "aliases": [
+        "Nicolo Schira"
+      ]
+    }
+  ]
+}

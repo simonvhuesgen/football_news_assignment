@@ -1,0 +1,67 @@
+[
+  {
+    "query": "anything to do with fabrizio romano",
+    "method": "bm25",
+    "k": 1,
+    "results": [
+      {
+        "index": 8,
+        "score": 4.6138698352890914,
+        "text": "Rennes head coach Habib Beye has reiterated his wish to rely on France U21 international centre-back Jérémy Jacquet (20) until the end of the season, amid interest from Chelsea, who are seeking a club-to-club agreement but face complications over Rennes' high asking price of around €65-70m (£60m).[4][1][3]\n\n**Key Details on Jeremy Jacquet Transfer Situation:**\n- **Player Profile:** 20-year-old French under-21 international centre-back at Rennes, with 16 Ligue 1 appearances this season, contract until 2029, and Transfermarkt value of €20m.[3][1]\n- **Chelsea's Interest:** Chelsea have held positive discussions with Rennes and reportedly agreed personal terms with Jacquet, making him their primary centre-back target in January 2026. No official bid yet; a €50m offer was reportedly rejected. They are reluctant to meet the full price and consider a buy-and-loan-back deal.[1][2][3]\n- **Rennes' Stance:** Demanding €65-70m to make Jacquet their biggest sale ever; Habib Beye wants to keep him until season's end.[4][2][3]\n- **Other Clubs:** Interest from Arsenal, Manchester United, Liverpool, Real Madrid; situation complicated with ongoing talks.[2][3]\n- **Fabrizio Romano Update:** Positive player-side talks but no club agreement; Chelsea exploring alternatives like recalling Aaron Anselmino.[1][2]"
+      }
+    ]
+  },
+  {
+    "query": "recent tottenham news",
+    "method": "tfidf",
+    "k": 1,
+    "results": [
+      {
+        "index": 9,
+        "score": 0.19140312276234792,
+        "text": "Lucas Bergvall, Tottenham Hotspur's Swedish midfielder, suffered a high ankle sprain during the UEFA Champions League match against Borussia Dortmund on Tuesday, forcing him off after 63 minutes.[1][2] Tottenham manager Thomas Frank stated the injury 'could be a longer one,' with further assessment pending in the next couple of days, confirming a prolonged period on the sidelines.[1][2] This follows Bergvall's recent unfitness to play significantly against West Ham due to prior issues.[2]"
+      }
+    ]
+  },
+  {
+    "query": "Articles about player injury updates and expected recovery uncertainty",
+    "method": "dense",
+    "k": 1,
+    "results": [
+      {
+        "index": 9,
+        "score": 0.38773682713508606,
+        "text": "Lucas Bergvall, Tottenham Hotspur's Swedish midfielder, suffered a high ankle sprain during the UEFA Champions League match against Borussia Dortmund on Tuesday, forcing him off after 63 minutes.[1][2] Tottenham manager Thomas Frank stated the injury 'could be a longer one,' with further assessment pending in the next couple of days, confirming a prolonged period on the sidelines.[1][2] This follows Bergvall's recent unfitness to play significantly against West Ham due to prior issues.[2]"
+      }
+    ]
+  },
+  {
+    "query": "Transfer reports involving competition between two or more clubs for the same player.",
+    "method": "dense",
+    "k": 2,
+    "results": [
+      {
+        "index": 3,
+        "score": 0.3703194558620453,
+        "text": "**Aston Villa and Crystal Palace are interested in signing PSG striker Gonçalo Ramos (24), who is currently a backup option at the club.** According to reports, Aston Villa is actively working to bring the Portuguese international to Villa Park before the winter transfer window closes, amid a need for a centre-forward replacement after Donyell Malen's departure to Roma.[1][3][5] Crystal Palace is also pursuing Ramos as a potential replacement for Jean-Philippe Mateta, who wants to leave.[1][3]\n\n**PSG is reluctant to sell Ramos.** The French champions do not want to part with him despite his limited playing time behind players like Ousmane Dembélé, and they are focused on keeping or renewing his contract.[1][2][5]\n\n**Additional context:** Aston Villa has other striker targets like Tammy Abraham (personal terms agreed) and Mateta, with Ramos as one option on a shortlist.[1] Other clubs, including Atlético Madrid, have shown interest in Ramos for a potential summer move as a replacement for players like Julián Álvarez.[2][4][6] Ramos had a successful 2025 with PSG, contributing to their sextuple win.[7]"
+      },
+      {
+        "index": 2,
+        "score": 0.3576396107673645,
+        "text": "Paris FC are in talks with Brighton & Hove Albion to sign Italian defender **Diego Coppola (22)** on loan during the January 2026 transfer window.[5][6] According to reports from Marc Mechenoua and Matteo Moretto, the Ligue 1 side has held positive contacts with Brighton and aims to finalize the deal quickly.[1][5][6]\n\n**Key details:**\n- Coppola, under contract with Brighton until June 2030, has made 9 appearances this season (5 in the Premier League, 4 in cups).[2][6]\n- Paris FC emerged as surprise contenders, ahead of interest from Girona, Valencia, AC Milan, Fiorentina, and Torino.[1][2][3][4]\n- An entourage member confirmed Coppola 'will not go to Milan', pointing to Paris FC as the likely destination.[4]\n- No specifics on loan terms (e.g., option to buy) have been disclosed.[1][3]"
+      }
+    ]
+  },
+  {
+    "query": "transfer news about PSG",
+    "method": "bm25",
+    "k": 1,
+    "results": [
+      {
+        "index": 3,
+        "score": 3.412297811032667,
+        "text": "**Aston Villa and Crystal Palace are interested in signing PSG striker Gonçalo Ramos (24), who is currently a backup option at the club.** According to reports, Aston Villa is actively working to bring the Portuguese international to Villa Park before the winter transfer window closes, amid a need for a centre-forward replacement after Donyell Malen's departure to Roma.[1][3][5] Crystal Palace is also pursuing Ramos as a potential replacement for Jean-Philippe Mateta, who wants to leave.[1][3]\n\n**PSG is reluctant to sell Ramos.** The French champions do not want to part with him despite his limited playing time behind players like Ousmane Dembélé, and they are focused on keeping or renewing his contract.[1][2][5]\n\n**Additional context:** Aston Villa has other striker targets like Tammy Abraham (personal terms agreed) and Mateta, with Ramos as one option on a shortlist.[1] Other clubs, including Atlético Madrid, have shown interest in Ramos for a potential summer move as a replacement for players like Julián Álvarez.[2][4][6] Ramos had a successful 2025 with PSG, contributing to their sextuple win.[7]"
+      }
+    ]
+  }
+]
